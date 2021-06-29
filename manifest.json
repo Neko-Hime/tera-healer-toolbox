@@ -1,14 +1,14 @@
 {
   "files": {
-    "constants.js": "af65615a2801598ef6867e6c2aa06e644a58ffc506ffb09734684e296f5dd928",
+    "constants.js": "6d098d97a11f43007a8625b138370fe5f1cec705aa6f5273d0cc7556ead617a1",
     "index.js": "9d0427af33e5647eac39db53b4fffc63854b59006cdb04817d245fdf83db97f8",
-    "module.json": "c11c8e420cf9af877bd91cd486133a93cddf82e063402b85d61ef0a4282bb3eb",
-    "README.md": "f71866442a87ae3109a9b5b4b87bf6e08c22face1f5a001c96a80b752a22a22e",
+    "module.json": "7d27d1ed24ec370cc77c14b32d9633f84bec7fd6deec57ed050862eb58934c4b",
+    "README.md": "5b87b8c700828d3e7be2fa448e4d0a8bcd92929029e7e9c1b1d9c259f9e0fb52",
     "settings.js": "ebef012b8835da4c10f0c0127a669eafa66f76826688f05b987dece97360028e"
   },
 	"defs": {
 		"S_LOGIN": 14,
-		"S_PARTY_MEMBER_LIST": 7,
+		"S_PARTY_MEMBER_LIST": 9,
 		"S_PARTY_MEMBER_CHANGE_HP": 4,
 		"S_PARTY_MEMBER_CHANGE_MP": 2,
 		"S_CHANGE_PARTY_MANAGER": 2,
@@ -18,7 +18,7 @@
 		"S_LEAVE_PARTY_MEMBER": 2,
 		"S_LEAVE_PARTY": "raw",
 		"S_PARTY_MEMBER_INTERVAL_POS_UPDATE": 3,
-		"S_ABNORMALITY_BEGIN": 4,
+		"S_ABNORMALITY_BEGIN": 5,
 		"S_ABNORMALITY_REFRESH": 2,
 		"S_ABNORMALITY_END": 1,
 		"S_PARTY_MARKER": 1,

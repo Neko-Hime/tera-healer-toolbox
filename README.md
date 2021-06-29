@@ -1,3 +1,6 @@
+# Patch 107
+Forked from [Koekkruimels](https://github.com/Koekkruimels/tera-healer-toolbox) and rework for patch 107 by Neko-Hime.
+
 # Features
 - Death Marker (with role, inc warrior/zerk as tank support)
 - Low Health notification + sound for party members and yourself (percentage and sound type in settings)
